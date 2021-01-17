@@ -37,11 +37,11 @@ Para ejecutar el proyecto debe tener instalado NodeJs, VisualStudio Code y Postm
     }
     
  4. VISUALIZAR PERFIL DE USUARIO
-    http://localhost:3000/user/profile/<username>
+    http://localhost:3000/user/profile/username
     NOTA: Debe enviar el username del que desea visualizar el perfil en el URL
     
  5. HISTORIAL DE AUTOS ALQUILADOS
-    http://localhost:3000/order/history/<username>
+    http://localhost:3000/order/history/username
     NOTA: Debe enviar el username del que desea visualizar el perfil en el URL
   
   NOTA GENERAL: La base de datos utilizada está almacenada en MongoDB. Esta base de datos cuenta con:
